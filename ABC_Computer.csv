@@ -1,0 +1,5 @@
+ComputerID ,Model ,Processor,Ram,Storage,Price,Graphics
+1,ROG,Intel I7,16,512,1200,Integrated Intel HD Graphics 4600
+2,MSI ,Intel i5,8,256,800,Integrated Intel HD Graphics 4600
+3,ROG,intel i5,8,256,900,Integrated Intel HD Graphics 4600
+4,MSI ,Intel 3,4,128,500,Integrated Intel HD Graphics 4600
