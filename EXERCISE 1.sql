@@ -1,5 +1,5 @@
 create database costumer;
-CREATE TABLE tblcstumer (
+CREATE TABLE tblcostumer (
  CostumerID INT PRIMARY KEY NOT NULL,
  CostumerName VARCHAR(50)NOT NULL,
  Municipality VARCHAR(50)NOT NULL,
